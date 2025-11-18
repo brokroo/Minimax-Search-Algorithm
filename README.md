@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Sanjith.R</h3>
-<h3>Register Number: 212223230191 </h3>
+<h3>Name: SANJITH R        </h3>
+<h3>Register Number: 212223230191       </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -101,12 +101,9 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
-
-
-
 ## PROGRAM:
-```
- import time
+```python
+import time
 
 class Game:
     def __init__(self):
@@ -264,20 +261,14 @@ def main():
     g.play()
 
 if __name__ == "__main__":
-    main()   
+    main()
 ```
-<hr>
-<h2>Sample Input and Output</h2>
-
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8ca1b08a-8312-4ef5-89df-e69b7b2c3fa2)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/dc06427a-d4ce-43a1-95bd-9acfaefac323)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a8a27e2a-6fd4-46a2-afb5-6d27b8556702)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
 <hr>
+<h2>Output</h2>
 
-![image](https://github.com/user-attachments/assets/71922a79-ab5c-4f7a-8b06-98b92a37992e)
+![image](https://github.com/user-attachments/assets/bb415632-2f18-4cd0-af8c-c78869e2d4cc)
 
+<hr>
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
